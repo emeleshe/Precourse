@@ -1,2 +1,1 @@
-# Precourse
-este un repo de prueba
+este es un aprieba como crear repositorios 
